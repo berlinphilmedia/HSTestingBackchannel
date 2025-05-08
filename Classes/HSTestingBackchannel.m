@@ -10,6 +10,7 @@
 #import "HSTestingBackchannel.h"
 #import "GCDWebServer.h"
 #import "GCDWebServerDataResponse.h"
+#import <UIKit/UIKit.h>
 
 @interface HSTestingBackchannel ()
 

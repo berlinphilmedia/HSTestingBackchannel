@@ -1,0 +1,15 @@
+{
+  "originHash" : "19738fdda2b2d43c7c922505d5debd8fa18874a04b4709ad33ecbe3007cc6acf",
+  "pins" : [
+    {
+      "identity" : "gcdwebserver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/berlinphilmedia/GCDWebServer/",
+      "state" : {
+        "revision" : "eb9afe13dda898d6640f3adc1ca50095c0240d96",
+        "version" : "3.5.4-fork"
+      }
+    }
+  ],
+  "version" : 3
+}
